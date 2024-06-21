@@ -10,7 +10,7 @@ These are the TASKS / PROJECTS for CODESOFT Internship
 ▪️ ✏️ Update existing tasks
 ▪️ 🗑️ Delete tasks
 
-# 💻 Brief Explanation:
+### 💻 Brief Explanation:
 
 The application uses Python's Tkinter library to create a graphical user interface (GUI). The list of tasks is displayed in a listbox, and users can add, update, or delete tasks using the corresponding buttons. This project has helped me improve my Python programming and GUI development skills.
 
@@ -24,7 +24,7 @@ The application uses Python's Tkinter library to create a graphical user interfa
  4️⃣ Division
  5️⃣ Modular Division
 
- # 💡 How it works:
+ ### 💡 How it works:
 -> Prompts the user to choose an operation.
 -> Takes two numerical inputs.
 -> Performs the chosen arithmetic operation.
@@ -37,7 +37,7 @@ Rock, Paper, Scissors game using Python! 🐍🎮 This fun and interactive game 
 
  Here’s a quick overview of the code:
 
-# How it works :
+### How it works :
 
 Random Computer Choice: The computer randomly selects between rock, paper, and scissors using Python's random.choice() function. 🎲
 
