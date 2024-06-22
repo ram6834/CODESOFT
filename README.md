@@ -56,5 +56,29 @@ Play Again Option: After each round, the user is asked if they want to play agai
 📈 Final Scores: At the end of the game, the final scores are displayed along with a message indicating the overall winner. 🏆
 
 
+## 4.Password Generator
+
+Password Generator 🔒
+Overview
+
+This project is a simple yet powerful password generator application created using Python. The generator allows users to specify the desired length of their password and produces a random, strong password using a mix of uppercase letters, lowercase letters, digits, and special characters.
+
+Features -
+
+1.User Input: Prompt the user to specify the desired length of the password.
+2.Comprehensive Character Pool: Uses a combination of uppercase letters, lowercase letters, digits, and special characters.
+3.Random and Secure: Utilizes Python's random module for true randomness.
+4.Easy to Use: Simple command-line interface for generating passwords.
+
+How It Works - 
+1.User Input: The user is prompted to enter the desired length of the password.
+2.Character Pool: The generator combines:
+    Uppercase Letters: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+    Lowercase Letters: abcdefghijklmnopqrstuvwxyz 
+    Digits: 0123456789
+    Special Characters: !@#$%^&*()-_=+[]{}|;:,.<>?/
+3.Password Generation: A loop randomly selects characters from the pool and builds a password of the specified length.
+4.Display Password: The generated password is printed on the screen.
+
 
     
